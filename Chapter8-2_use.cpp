@@ -1,6 +1,6 @@
 // use.cpp
 
-#include "my.h"
+#include "Chapter8-2_my.h"
 
 int main()
 {
