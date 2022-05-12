@@ -1,6 +1,6 @@
 //my.cpp
 
-#include "my.h"
+#include "Chapter8-2_my.h"
 
 
 //swap two integers using pass-by-value
